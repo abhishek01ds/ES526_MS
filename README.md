@@ -93,7 +93,7 @@ The future direction of the following work includes
 Contributors of this project are,
 
 1. [Abhinandan Mandal](https://github.com/abhinandan2540)
-2. [Asish Kumar](https://github.com/ashishbringoutthebest-tech)
+2. [Ashish Kumar](https://github.com/ashishbringoutthebest-tech)
 3. [Abhishek Kumar](https://github.com/abhishek01ds)
 4. [Sneha S Karun](https://github.com/snehaskarun22)
 5. [J Janasthuthi]()
